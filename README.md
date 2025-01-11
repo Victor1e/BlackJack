@@ -1,6 +1,6 @@
 # README - Simulare Monte Carlo pentru Blackjack
 
-Descriere proiect
+Descriere proiect:
 
 Acest proiect implementează o simulare Monte Carlo pentru a estima probabilitățile de câștig, egalitate și pierdere într-un joc de Blackjack. Simularea utilizează reguli standard ale jocului și permite analiza deciziilor strategice ale jucătorului. Proiectul combină teoria probabilităților și statistica pentru a oferi o abordare analitică a problemei, folosind inegalitatea Hoeffding pentru estimarea erorilor și justificarea teoretică.
 
